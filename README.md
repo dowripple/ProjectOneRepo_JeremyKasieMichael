@@ -28,11 +28,8 @@
 2. Mens_WorldHeight_1960_2016.csv - cleaned version of the height data, for men only, 1960-2016 (every 4 years)
 3. Mens_WorldHeight_Avg.csv - summary view of the world height data by year (for charting)
 
-## images Folder
-
-
 ## docs Folder
-1. Olympian Heights.pptx - our slides, enjoy!
+1. Olympian Heights.pptx - our slides, enjoy!  It is very large, be careful.
 2. Project Proposal.docx - word document with the initial project proposal
 3. Project To-dos and timeline.docx - word doc, scrap for our project meetings
 
@@ -44,3 +41,8 @@
 5. WorldHeightData_StatFun.ipynb - having fun with world height data, correlation matrix and ANOVA, but not part of the story!
 
 ## Project Description
+These 3 Jupyter notebooks explore height as it relates to Olympic athletes and the global average.  We sliced the data numerous ways to look at it from different angles.  Are all sports the same?  Are all events the same?  Is the height relationship between a country's population and their athletes significant?  These notebooks attempt to answer these questions and more.  
+
+
+
+
