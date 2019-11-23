@@ -1,5 +1,8 @@
-# ProjectOneRepo_JeremyKasieMichael
-11/23/19
+# Olympic Heights Project
+## ProjectOneRepo_JeremyKasieMichael
+!(../images/2020_logo.jpg)
+
+### Date: 11/23/19
 
 ## Project Members
 1. Jeremy Sabio
